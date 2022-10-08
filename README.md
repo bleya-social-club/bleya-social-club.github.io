@@ -1,2 +1,2 @@
 # bleya-social-club.github.io
-Bleya Social Club
+Bleya Social Club - Hugo Site
